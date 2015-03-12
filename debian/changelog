@@ -1,0 +1,5 @@
+dwv-orthanc-plugin (0.3.0-1) UNRELEASED; urgency=low
+
+  * Initial release (Closes: #<bug>)
+
+ -- DMPT <debian-med-packaging@lists.alioth.debian.org>  `date -R`

@@ -1,0 +1,20 @@
+Document: <pkg>
+Title: <title for this doc>
+Author: <author of this doc>
+Abstract: <if you have no better clue the short and
+ long description from debian/control might fit here as well>
+Section: Science/{Biology,Medicine} # see /usr/share/doc/doc-base/doc-base.txt.gz "2.3.3. The `section' field"
+
+# pick one of the below options
+Format: Text
+Files: /usr/share/doc/<pkg>/<pkg>.txt.gz
+
+Format: html
+Index: /usr/share/doc/<pkg>/html/index.html
+Files: /usr/share/doc/<pkg>/html/*
+
+Format: pdf
+Files: /usr/share/doc/<pkg>/<pkg>.pdf.gz
+
+Format: postscript
+Files: /usr/share/doc/<pkg>/<pkg>.ps.gz
