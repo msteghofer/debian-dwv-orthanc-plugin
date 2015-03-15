@@ -1,5 +1,6 @@
-dwv-orthanc-plugin (0.3.0-1) UNRELEASED; urgency=low
+dwv-orthanc-plugin (0.3.1-1) UNRELEASED; urgency=low
 
-  * Initial release (Closes: #<bug>)
+  * Initial release
+  * Revised build scripts
 
- -- Yves <ivmartel@gmail.com>  Thu, 12 Mar 2015 22:39:09 +0100
+ -- Yves <ivmartel@gmail.com>  Sun, 15 Mar 2015 23:25:37 +0100
