@@ -8,8 +8,8 @@ Build-Depends: debhelper (>= 9),
                python,
                liborthancclient-dev (>= 0.8.6)
 Standards-Version: 3.9.6
-Vcs-Browser: http://anonscm.debian.org/viewvc/debian-med/trunk/packages/dwv-orthanc-plugin/trunk/
-Vcs-Svn: svn://anonscm.debian.org/debian-med/trunk/packages/dwv-orthanc-plugin/trunk/
+Vcs-Browser: https://anonscm.debian.org/cgit/debian-med/dwv-orthanc-plugin.git
+Vcs-Git: git://anonscm.debian.org/debian-med/dwv-orthanc-plugin.git
 Homepage: https://github.com/ivmartel/dwv-orthanc-plugin
 
 Package: dwv-orthanc-plugin
