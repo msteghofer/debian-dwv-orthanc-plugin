@@ -16,6 +16,8 @@ Package: dwv-orthanc-plugin
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, orthanc (>= 0.8.6)
 Description: DICOM Web Viewer (DWV) for Orthanc
- View DICOM images stored in Orthanc using DWV, a HTML5 zero-footpring viewer. 
- Provides basic tools: scroll, window/level (manual and presets), annotations,
- basic image filters. Touch screen compatible. 
+ The DWV Orthanc Plugin lets the user view DICOM images stored
+ in Orthanc using DWV, an HTML5 zero-footprint viewer (DWV).
+ Its basic tools include scrolling, windowing/leveling
+ (manually and using presets), annotations and
+ basic image filters. It is touch screen compatible.
