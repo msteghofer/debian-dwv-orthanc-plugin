@@ -1,6 +1,5 @@
 dwv-orthanc-plugin (0.4.0-1) UNRELEASED; urgency=low
 
-  * Initial release
-  * Revised build scripts
+  * Initial release. (Closes: #802756)
 
- -- Yves <ivmartel@gmail.com>  Sun, 15 Mar 2015 23:25:37 +0100
+ -- Yves Martelli <ivmartel@gmail.com>  Sun, 15 Mar 2015 23:25:37 +0100
