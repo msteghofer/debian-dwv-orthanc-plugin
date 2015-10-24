@@ -7,7 +7,8 @@ Build-Depends: debhelper (>= 9),
                cmake (>= 2.8),
                python,
                orthanc-dev,
-               libjs-jquery
+               libjs-jquery,
+               libjs-jquery-flot
 Standards-Version: 3.9.6
 Vcs-Browser: https://anonscm.debian.org/cgit/debian-med/dwv-orthanc-plugin.git
 Vcs-Git: git://anonscm.debian.org/debian-med/dwv-orthanc-plugin.git
